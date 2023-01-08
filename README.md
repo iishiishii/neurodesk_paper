@@ -13,7 +13,7 @@ The images necessary for the code, specifically ICBM dataset, can be requested a
 
 #### Select Neurodesk instance
 
-Go to https://play-sydney.neurodesk.org/v2/gh/iishiishii/neurodesktop-paper/main?filepath=fsl_pipeline.ipynb.
+Go to https://hub.play-sydney.neurodesk.org/user/iishiishii-neurodesktop-paper-d7akqs1h/lab.
 
 or 
 
