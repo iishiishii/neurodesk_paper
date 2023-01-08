@@ -13,7 +13,11 @@ The images necessary for the code, specifically ICBM dataset, can be requested a
 
 #### Select Neurodesk instance
 
-Go to https://play.neurodesk.org/ and choose the most suitable instance for your location and file storage.
+Go to https://play-sydney.neurodesk.org/v2/gh/iishiishii/neurodesktop-paper/main?filepath=fsl_pipeline.ipynb.
+
+or 
+
+Go to https://play.neurodesk.org/ and choose the most suitable instance for your location and file storage and upload the notebooks in this repo.
 
 
 #### Upload data
@@ -21,10 +25,6 @@ Go to https://play.neurodesk.org/ and choose the most suitable instance for your
 Upload the downloaded data to neurodesktop-storage.
 
 #### Build the paper
-
-Upload the Jupyter notebooks in this repo to Neurodesk play.
-
-
 
 To run FSL BET, FAST, FLIRT, FIRST pipeline: `fsl_pipeline.ipynb`
 
