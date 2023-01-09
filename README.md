@@ -2,7 +2,6 @@
 
 To view the preprint, see https://www.biorxiv.org/content/10.1101/2022.12.23.521691v1.full.
 
-This repository 
 ## Building the paper with Neurodesk Play
 
 ### 1. Download data files
