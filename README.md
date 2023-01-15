@@ -18,7 +18,7 @@ Alternatively, you can visit https://play.neurodesk.org/ and choose the most sui
 
 #### Upload data
 
-Once you have accessed the Neurodesk instance, you will need to upload the downloaded data files to the `neurodesktop-storage`. This is necessary so that the code can access the data and use it to generate the figures in the paper.
+Once you have accessed the Neurodesk instance, you will need to upload the downloaded data files to the `/home/jovyan/neurodesktop-storage` directory. This is necessary so that the code can access the data and use it to generate the figures in the paper.
 
 #### Build the paper
 
