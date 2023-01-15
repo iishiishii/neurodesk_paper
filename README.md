@@ -26,7 +26,7 @@ The imaging data necessary for the code, specifically ICBM dataset, can be reque
 ### 2. Open Neurodesk
 
 **Option 1:** 
-To quickly access Neurodesk and all the necessary files for the paper, you can use the following link: https://hub.play-sydney.neurodesk.org/user/iishiishii-neurodesktop-paper-2yj4y6mu/lab. This instance has been specifically created for this paper and contains all the files that are required to build the paper with Neurodesk Play.
+To quickly access Neurodesk and all the necessary files for the paper, you can use the following link: https://play-sydney.neurodesk.org/v2/gh/iishiishii/neurodesktop-paper/main. This instance has been specifically created for this paper and contains all the files that are required to build the paper with Neurodesk Play.
 
 **Option 2:** 
 Alternatively, you can also access Neurodesk by visiting https://play.neurodesk.org/ and choosing the most suitable instance based on your location and file storage needs. Once you have selected the instance, open a terminal and run the following command to download the necessary files and notebooks to your computer.
