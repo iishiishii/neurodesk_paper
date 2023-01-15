@@ -2,25 +2,53 @@
 
 To view the preprint of the paper, please visit the following link: https://www.biorxiv.org/content/10.1101/2022.12.23.521691v1.full. This preprint can be used as a reference while building the paper with Neurodesk Play.
 
+## Neurodesk Overview
+Neurodesk is a flexible, scalable, and browser-based data analysis environment for reproducible neuroimaging. It provides a platform for neuroimaging researchers to access powerful tools and resources in a user-friendly interface. With Neurodesk, researchers can perform complex data analysis tasks with ease, while ensuring the reproducibility of their results.
+
+### System Requirements
+Operating System: Windows, MacOS, Linux 
+
+Neurodesk supported softwares : neuroimaging software such as FSL, AFNI, SPM, Freesurfer, and more to be found in https://www.neurodesk.org/applications/
+
+### Installation Guide
+To install Neurodesk, please follow the decision tree in this link https://www.neurodesk.org/ to check the specific steps for your operating systems.
+
+### Instructions for Use
+To use Neurodesk, please refer to the tutorials provided in this link https://www.neurodesk.org/tutorials/
+These tutorials will guide you through the process of performing common neuroimaging tasks using Neurodesk, and will help you to get the most out of this powerful platform.
+
 ## Building the paper with Neurodesk Play
 
 ### 1. Download data files
 
-The images necessary for the code, specifically ICBM dataset, can be requested at https://ida.loni.usc.edu/. This dataset is essential for the paper and should be downloaded before proceeding to the next step.
+The imaging data necessary for the code, specifically ICBM dataset, can be requested at https://ida.loni.usc.edu/. This dataset is essential for the paper and should be downloaded before proceeding to the next step.
 
 ### 2. Open Neurodesk
 
-#### Select Neurodesk instance
+**Option 1:** 
+To quickly access Neurodesk and all the necessary files for the paper, you can use the following link: https://hub.play-sydney.neurodesk.org/user/iishiishii-neurodesktop-paper-2yj4y6mu/lab. This instance has been specifically created for this paper and contains all the files that are required to build the paper with Neurodesk Play.
 
-To access the Neurodesk instance, go to the following link: https://hub.play-sydney.neurodesk.org/user/iishiishii-neurodesktop-paper-2yj4y6mu/lab. This instance has been specifically created for this paper and contains all the necessary files.
+**Option 2:** 
+Alternatively, you can also access Neurodesk by visiting https://play.neurodesk.org/ and choosing the most suitable instance based on your location and file storage needs. Once you have selected the instance, open a terminal and run the following command to download the necessary files and notebooks to your computer.
 
-Alternatively, you can visit https://play.neurodesk.org/ and choose the most suitable instance for your location and file storage. Then upload the notebooks in this repo to the selected instance.
+```
+cd neurodesktop-storage
+git clone https://github.com/iishiishii/neurodesktop-paper.git
+```
 
-#### Upload data
+**Option 3:** 
+For those who prefer to run Neurodesk locally, you can set up Neurodesk on your local computer by following the instructions provided in the link https://www.neurodesk.org/. After setting up Neurodesk, you can run the following command to download the necessary files and notebooks to your computer.
+
+```
+cd neurodesktop-storage
+git clone https://github.com/iishiishii/neurodesktop-paper.git
+```
+
+### 3. Upload data
 
 Once you have accessed the Neurodesk instance, you will need to upload the downloaded data files to the `/home/jovyan/neurodesktop-storage` directory. This is necessary so that the code can access the data and use it to generate the figures in the paper.
 
-#### Build the paper
+### 4. Build the paper
 
 To run FSL BET, FAST, FLIRT, FIRST pipeline: `fsl_pipeline.ipynb`
 
