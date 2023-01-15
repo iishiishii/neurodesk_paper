@@ -34,3 +34,14 @@ To generate Figure 3: `flirt_first_correlation.ipynb`
 To generate Figure 4: `tracelog.ipynb`
 
 Follow the instructions in the markdowns within each notebook for more details
+
+
+## Citation
+
+Renton, A. I., Dao, T. T., Abbott, D. F., Bollmann, S., Campbell, M. E. J., Chang,
+J., Close, T. G., Eckstein, K., Egan, G. F., Evas, S., Garner, K. G., Garrido, M. I., Hannan, A. J.,
+Huber, R., Johnstone, T., Kaczmarzyk, J. R., Kasper, L., Kuhlmann, L., Lou, K., Lyons, P., Mattingley,
+J. B., Narayanan, A., Pestilli, F., Puce, A., Ribeiro, F. L., Rogasch, N. C., Shaw, T. B., Sowman, P. F.,
+Spitz, G., Stewart, A., Sullivan, R. P., White, D. J., Ye, X., Zhu, J. D., Narayanan, A., and Bollmann,
+S. (2022). Neurodesk: An accessible, flexible, and portable data analysis environment for reproducible
+neuroimaging. bioRxiv. doi:10.1101/2022.12.23.521691
