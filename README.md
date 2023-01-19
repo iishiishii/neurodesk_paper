@@ -5,15 +5,19 @@ To view the preprint of the paper, please visit the following link: https://www.
 ## Neurodesk Overview
 Neurodesk is a flexible, scalable, and browser-based data analysis environment for reproducible neuroimaging. It provides a platform for neuroimaging researchers to access powerful tools and resources in a user-friendly interface. With Neurodesk, researchers can perform complex data analysis tasks with ease, while ensuring the reproducibility of their results.
 
-### System Requirements
+### Documentation
+
+The official documentation with usage is at: https://www.neurodesk.org/
+
+#### System Requirements
 Operating System: Windows, MacOS, Linux 
 
 Neurodesk supported softwares : neuroimaging software such as FSL, AFNI, SPM, Freesurfer, and more to be found in https://www.neurodesk.org/applications/
 
-### Installation Guide
+#### Installation Guide
 To install Neurodesk, please follow the decision tree in this link https://www.neurodesk.org/ to check the specific steps for your operating systems.
 
-### Instructions for Use
+#### Instructions for Use
 To use Neurodesk, please refer to the tutorials provided in this link https://www.neurodesk.org/tutorials/
 These tutorials will guide you through the process of performing common neuroimaging tasks using Neurodesk, and will help you to get the most out of this powerful platform.
 
