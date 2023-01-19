@@ -46,11 +46,14 @@ git clone https://github.com/iishiishii/neurodesktop-paper.git
 
 ### 3. Upload data
 
-Once you have accessed the Neurodesk instance, you will need to upload the downloaded data files to the `/home/jovyan/neurodesktop-storage` directory. This is necessary so that the code can access the data and use it to generate the figures in the paper.
+Once you have accessed the Neurodesk instance, you will need to upload the downloaded data files to Neurodesk environment. This is necessary so that the code can access the data and use it to generate the figures in the paper.
+
 
 ### 4. Build the paper
 
 To run FSL BET, FAST, FLIRT, FIRST pipeline: `fsl_pipeline.ipynb`
+
+The following notebooks compare data from 2 systems, hence requires paths to processed data within the notebooks.
 
 To generate Figure 2: `Dice_calculate.ipynb`
 
