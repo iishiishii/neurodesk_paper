@@ -57,7 +57,7 @@ Once you have accessed the Neurodesk instance, you will need to upload the downl
 
 To run FSL BET, FAST, FLIRT, FIRST pipeline: `fsl_pipeline.ipynb`
 
-The following notebooks compare data from 2 systems, hence requires paths to processed data within the notebooks.
+The following notebooks compare data from 2 systems, hence **requires paths to processed data** within the notebooks.
 
 To generate Figure 2: `Dice_calculate.ipynb`
 
