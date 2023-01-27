@@ -59,6 +59,8 @@ To run FSL BET, FAST, FLIRT, FIRST pipeline: `fsl_pipeline.ipynb`
 
 The following notebooks compare data from 2 systems, hence **requires paths to processed data** within the notebooks.
 
+Make sure to run the code from the directory where the files are located.
+
 To generate Figure 2: `Dice_calculate.ipynb`
 
 To generate Figure 3: `flirt_first_correlation.ipynb`
