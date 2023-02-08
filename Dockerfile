@@ -5,3 +5,4 @@ RUN git clone https://github.com/iishiishii/neurodesktop-paper
 WORKDIR /home/jovyan/neurodesktop-paper
 RUN mkdir /home/jovyan/neurodesktop-paper/data
 RUN osf -p e6pw3 clone /home/jovyan/neurodesktop-paper/data
+RUN mv  -v /home/jovyan/neurodesktop-paper/data/osfstorage/data/* /home/jovyan/neurodesktop-paper/data && rm -rf /home/jovyan/neurodesktop-paper/data/osfstorage
