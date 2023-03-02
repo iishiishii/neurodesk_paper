@@ -27,16 +27,21 @@ To quickly access Neurodesk and all the necessary files for the paper, you can u
 Alternatively, you can also access Neurodesk by visiting https://play.neurodesk.org/ and choosing the most suitable instance based on your location and file storage needs. Once you have selected the instance, open a terminal and run the following command to download the necessary files and notebooks to your computer.
 
 ```
-cd neurodesktop-storage
 git clone https://github.com/iishiishii/neurodesk_paper.git
+mkdir /home/jovyan/neurodesk_paper/data
+osf -p e6pw3 clone /home/jovyan/neurodesk_paper/data
 ```
+
+Open the notebooks in `neurodesk_paper` directory on the sidebar.
 
 **Option 3:** 
 For those who prefer to run Neurodesk locally, you can set up Neurodesk on your local computer by following the instructions provided in the link https://www.neurodesk.org/. After setting up Neurodesk, you can run the following command to download the necessary files and notebooks to your computer.
 
 ```
-cd neurodesktop-storage
+cd ~/neurodesktop-storage
 git clone https://github.com/iishiishii/neurodesk_paper.git
+mkdir ./neurodesk_paper/data
+osf -p e6pw3 clone ./neurodesk_paper/data
 ```
 
 ### 3. Upload data
