@@ -1,5 +1,6 @@
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/109380029489952500?domain=https%3A%2F%2Fmasto.ai&style=social)
 
+To view Neurodesk paper in Nature Methods, go to https://www.nature.com/articles/s41592-023-02145-x
 To view the preprint of the paper, please visit the following link: https://www.biorxiv.org/content/10.1101/2022.12.23.521691v1.full. This preprint can be used as a reference while building the paper with Neurodesk Play.
 
 ## Neurodesk Overview
@@ -68,10 +69,10 @@ Each notebook contains detailed instructions on how to use the code to generate 
 
 ## Citation
 
-Renton, A. I., Dao, T. T., Abbott, D. F., Bollmann, S., Campbell, M. E. J., Chang,
-J., Close, T. G., Eckstein, K., Egan, G. F., Evas, S., Garner, K. G., Garrido, M. I., Hannan, A. J.,
-Huber, R., Johnstone, T., Kaczmarzyk, J. R., Kasper, L., Kuhlmann, L., Lou, K., Lyons, P., Mattingley,
-J. B., Narayanan, A., Pestilli, F., Puce, A., Ribeiro, F. L., Rogasch, N. C., Shaw, T. B., Sowman, P. F.,
-Spitz, G., Stewart, A., Sullivan, R. P., White, D. J., Ye, X., Zhu, J. D., Narayanan, A., and Bollmann,
-S. (2022). Neurodesk: An accessible, flexible, and portable data analysis environment for reproducible
-neuroimaging. bioRxiv. doi:10.1101/2022.12.23.521691
+A. I. Renton*, T. Dao*, T. Johnstone, O. Civier, R. P. Sullivan, D. J. White, P. Lyons, B. M. Slade, D. F. Abbott, T. J. Amos,
+S. Bollmann, A. Botting, M. E. J. Campbell, J. Chang, T. G. Close, K. Eckstein, G. F. Egan, S. Evas, G. Flandin, K. G. Garner,
+M. I. Garrido, S. S. Ghosh, M. Grignard, A. J. Hannan, R. Huber, J. R. Kaczmarzyk, L. Kasper, L. Kuhlmann, K. Lou,
+Y.-J. Mantilla-Ramos, J. B. Mattingley, J. Morris, A. Narayanan, F. Pestilli, A. Puce, F. L. Ribeiro, N. C. Rogasch, C. Rorden,
+M. Schira, T. B. Shaw, P. F. Sowman, G. Spitz, A. Stewart, X. Ye, J. D. Zhu, M. E. Hughes, A. Narayanan, and S. Bollmann.
+Neurodesk: An accessible, flexible, and portable data analysis environment for reproducible neuroimaging. Nat
+Methods (2024). [https://doi.org/10.1038/s41592-023-02145-x](https://doi.org/10.1038/s41592-023-02145-x)
